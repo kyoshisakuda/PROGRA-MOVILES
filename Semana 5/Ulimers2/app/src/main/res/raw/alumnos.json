@@ -1,0 +1,26 @@
+[
+  {
+    "nombre" : "ALFARO FRANCIA ANTONIO",
+    "codigo" : "20051470",
+    "puntaje" : 0,
+    "urlFoto" : "http://oliva.ulima.edu.pe/imagenes/fotos/97119.jpg"
+  },
+  {
+    "nombre" : "AREVALO LA FUENTE ALEJANDRO MANUEL ULADISLAO",
+    "codigo" : "20133296",
+    "puntaje" : 0,
+    "urlFoto" : "http://oliva.ulima.edu.pe/imagenes/fotos/201523.jpg"
+  },
+  {
+    "nombre" : "BARRIENTOS SAEZ JONATHAN AUGUSTO",
+    "codigo" : "20100122",
+    "puntaje" : 0,
+    "urlFoto" : "http://oliva.ulima.edu.pe/imagenes/fotos/153022.jpg"
+  },
+  {
+    "nombre" : "BECERRA ROJAS JOCELYN PAMELA",
+    "codigo" : "20131602",
+    "puntaje" : 0,
+    "urlFoto" : "http://oliva.ulima.edu.pe/imagenes/fotos/197726.jpg"
+  }
+]
